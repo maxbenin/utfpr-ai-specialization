@@ -1,0 +1,11 @@
+Aprendizado Supervisionado
+
+Nesse tipo de aprendizado, o modelo é treinado usando  dados rotulados. Cada exemplo de treinamento possui uma entrada e uma saída desejada. No exemplo que utilizamos, o problema de "ir ou não ir ao jogo", informamos a entrada na forma de uma combinação de condições (clima, preço do ingresso e importância do jogo). Informamos também a saída desejada para cada combinação. Esse foi um exemplo de aprendizado supervisionado. O objetivo do modelo no aprendizado supervisionado é aprender uma função que mapeia entradas para saídas, de modo que ele possa prever a saída correta para novas entradas.
+
+Aprendizado não Supervisionado
+
+No aprendizado não supervisionado, o modelo é treinado usando dados não rotulados. O objetivo é analisar e agrupar esses dados, descobrindo neles padrões ou estruturas ocultas. O modelo não recebe orientação explícita sobre o que procurar nos dados para fezer esse agrupamento. Um exemplo é o modelo utilizar registros de compras para procurar padrões repetidos e que permitiriam a inferência de um grupo ou perfil de consumidor. 
+
+Aprendizado por Reforço
+
+No aprendizado por reforço, o modelo é treinado tomar decisões em busca dos melhores resultados. A ideia é dar uma recompensa a um agente quando ele tomar a decisão correta e penalizar esse agente quando ele tomar a decisão errada. Essa estratégia depende muito do reforço positivo e negativo, para que o agente aprenda as decisões corretas a tomar.  Podemo tomar como exemplo um veículo autônomo, que toma decisões dependendo do cenário que ele observa. O veículo pode receber recompensas negativas quando colide com algum objeto do ambiente ou com outros veículos. Após repetidas etapas, o veículo "aprende" a contornar os obstáculos.
