@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "a8c9a79607a200cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a8f03f45a1c703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8deaa09974d1108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Linguagem de Programação/Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a6354bbd463a4fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "67a91427a19df219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060a6fdaf812fb9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12c2384008adfec9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "959e02822b51dd33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 403.5
+  },
+  "right": {
+    "id": "2bd53ef0b4fd1a39",
+    "type": "split",
+    "children": [
+      {
+        "id": "d254ce76a3e7d753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4f9eb4c4bee0bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Linguagem de Programação/Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Readme"
+            }
+          },
+          {
+            "id": "613211be6bcf3943",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Linguagem de Programação/Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Readme"
+            }
+          },
+          {
+            "id": "8aad524d41782543",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1922f488e30b33be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Linguagem de Programação/Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c8deaa09974d1108",
+  "lastOpenFiles": [
+    "README.md",
+    "01 - Linguagem de Programação/Readme.md",
+    "01 - Linguagem de Programação",
+    "06 - Machine Learning",
+    "03  - Estatística Aplicada",
+    "02 - Introdução a IA",
+    "04 - Redes Neurais/src/MLPRegressorHouseSalesPrediction.ipynb",
+    "04 - Redes Neurais/src",
+    "04 - Redes Neurais",
+    "05 - Meta-heuristicas/src/OneMax_Problem.ipynb",
+    "05 - Meta-heuristicas/src/Deceptive_OneMax_Problem.ipynb",
+    "05 - Meta-heuristicas/src",
+    "08 - Deep Learning/02 - Rede Convolucional/src/teste2.jpeg",
+    "08 - Deep Learning/02 - Rede Convolucional/src/teste1.jpeg",
+    "08 - Deep Learning/02 - Rede Convolucional/src/Digito.png"
+  ]
+}
