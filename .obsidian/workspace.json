@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "620c402483748d9b",
+        "id": "59b64abb88ad43a8",
         "type": "tabs",
         "children": [
           {
-            "id": "22dd1a4b289197fc",
+            "id": "e94c856f84dab566",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,19 +84,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "7c89f0ddc10ab37f",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "0f9a841b2907a0ea",
@@ -240,9 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c89f0ddc10ab37f",
+  "active": "e94c856f84dab566",
   "lastOpenFiles": [
     "01 - Linguagem de Programação/01 - Linguagem de Programação.md",
+    "01 - Linguagem de Programação/Readme.md",
     "Untitled.md",
     "README.md",
     "Tags",
@@ -275,7 +265,6 @@
     "005 - UTFPR/3 - Resources/Mineração de Dados/2_nocoes_estatistica.pdf",
     "002 - Prompts IA/Prompt para gerar aulas detalhadas.md",
     "005 - UTFPR/2 - Areas/Recozimento de Metais.md",
-    "001 - Anotações/Método PARA.md",
     "005 - UTFPR/3 - Resources/Mineração de Dados/My code file.py",
     "005 - UTFPR/3 - Resources/Mineração de Dados/aula_AED.pdf",
     "Pasted image 20250707174639.png",

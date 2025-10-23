@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖥",
       "LiBrainCircuit",
       "⛏",
       "LiLayoutTemplate",
-      "📥",
-      "✍"
+      "📥"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "007 - Criação de Conteúdo": "✍",
   "999 - Templates": "LiLayoutTemplate",
   "005 - UTFPR/1 - Projects/006 - Mineração de Dados": "⛏",
-  "005 - UTFPR/1 - Projects/007 - Deep Learning": "LiBrainCircuit"
+  "005 - UTFPR/1 - Projects/007 - Deep Learning": "LiBrainCircuit",
+  "01 - Linguagem de Programação": "🖥"
 }
