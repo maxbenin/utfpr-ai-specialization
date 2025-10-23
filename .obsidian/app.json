@@ -1,4 +1,13 @@
 {
-  "useMarkdownLinks": true,
-  "showUnsupportedFiles": true
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "tabSize": 4,
+  "useMarkdownLinks": true
 }

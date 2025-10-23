@@ -1,21 +1,31 @@
 {
   "main": {
-    "id": "a8c9a79607a200cf",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "c2a8f03f45a1c703",
+        "id": "620c402483748d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "c8deaa09974d1108",
+            "id": "22dd1a4b289197fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 - Linguagem de Programação/Readme.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Readme"
@@ -27,15 +37,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5a6354bbd463a4fb",
+    "id": "407fb8e8a291cb12",
     "type": "split",
     "children": [
       {
-        "id": "67a91427a19df219",
+        "id": "4c02cd51d8b71895",
         "type": "tabs",
+        "dimension": 68.63136863136863,
         "children": [
           {
-            "id": "060a6fdaf812fb9b",
+            "id": "30d1c59e27e0a44b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +59,7 @@
             }
           },
           {
-            "id": "12c2384008adfec9",
+            "id": "afa6676c52c04206",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +76,7 @@
             }
           },
           {
-            "id": "959e02822b51dd33",
+            "id": "b85d8be1d75ecf58",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,56 +84,65 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "7c89f0ddc10ab37f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0f9a841b2907a0ea",
+        "type": "tabs",
+        "dimension": 31.36863136863137,
+        "children": [
+          {
+            "id": "2329777f8126c3ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 388.5
   },
   "right": {
-    "id": "2bd53ef0b4fd1a39",
+    "id": "9c1bd3f4be1642a0",
     "type": "split",
     "children": [
       {
-        "id": "d254ce76a3e7d753",
+        "id": "e695fff305bce1bc",
         "type": "tabs",
         "children": [
           {
-            "id": "4c4f9eb4c4bee0bc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01 - Linguagem de Programação/Readme.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Readme"
-            }
-          },
-          {
-            "id": "613211be6bcf3943",
+            "id": "18058ea05eed82fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Linguagem de Programação/Readme.md",
+                "file": "005 - UTFPR/1 - Projects/005 - Meta-heurísticas e Otimização Combinatória/000 - Informações Disciplina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Readme"
+              "title": "Outgoing links from 000 - Informações Disciplina"
             }
           },
           {
-            "id": "8aad524d41782543",
+            "id": "e02884dd0bdeefa0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +157,7 @@
             }
           },
           {
-            "id": "1922f488e30b33be",
+            "id": "42a201874af504e9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -150,12 +170,56 @@
               "icon": "lucide-list",
               "title": "Outline of Readme"
             }
+          },
+          {
+            "id": "46d69e27bba33d75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "005 - UTFPR/3 - Resources/Hill_Climbing.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hill_Climbing"
+            }
+          },
+          {
+            "id": "b2ef5e8e55348dbd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3b40a951c102a7ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 458.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,26 +230,66 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8deaa09974d1108",
+  "active": "7c89f0ddc10ab37f",
   "lastOpenFiles": [
-    "10 - Visao Computacional/slides/Slides - Apresentacao da Disciplina.pdf",
-    "10 - Visao Computacional/slides",
-    "10 - Visao Computacional",
+    "01 - Linguagem de Programação/01 - Linguagem de Programação.md",
+    "Untitled.md",
     "README.md",
-    "01 - Linguagem de Programação/Readme.md",
-    "01 - Linguagem de Programação",
-    "06 - Machine Learning",
-    "03  - Estatística Aplicada",
-    "02 - Introdução a IA",
-    "04 - Redes Neurais/src/MLPRegressorHouseSalesPrediction.ipynb",
-    "04 - Redes Neurais/src",
-    "04 - Redes Neurais",
-    "05 - Meta-heuristicas/src/OneMax_Problem.ipynb",
-    "08 - Deep Learning/02 - Rede Convolucional/src/teste2.jpeg",
-    "08 - Deep Learning/02 - Rede Convolucional/src/teste1.jpeg",
-    "08 - Deep Learning/02 - Rede Convolucional/src/Digito.png"
+    "Tags",
+    "005 - UTFPR/1 - Projects/007 - Deep Learning/002 - Rede Convolucional.md",
+    "005 - UTFPR/1 - Projects/007 - Deep Learning/000 - Informações sobre a disciplina.md",
+    "005 - UTFPR/1 - Projects/007 - Deep Learning/001 - Redes Neurais.md",
+    "005 - UTFPR/1 - Projects/007 - Deep Learning/004 - Rede Transformer.md",
+    "005 - UTFPR/1 - Projects/007 - Deep Learning/003 - Rede Recorrente.md",
+    "005 - UTFPR/1 - Projects/006 - Mineração de Dados/001 - Análise Exploratório dos Dados.md",
+    "005 - UTFPR/3 - Resources/Mineração de Dados/aula_KDD.pdf",
+    "Link.md",
+    "3 Rede Recorrente.md",
+    "2 Rede Convolucional.md",
+    "1 Redes Neurais.md",
+    "005 - UTFPR/1 - Projects/005 - Meta-heurísticas e Otimização Combinatória/000 - Informações Disciplina.md",
+    "005 - UTFPR/1 - Projects/005 - Meta-heurísticas e Otimização Combinatória/007 - Problema N-Rainhas.md",
+    "005 - UTFPR/1 - Projects/005 - Meta-heurísticas e Otimização Combinatória/006 - Variações do Algoritmo Genético.md",
+    "005 - UTFPR/1 - Projects/Untitled.md",
+    "005 - UTFPR/1 - Projects/007 - Deep Learning",
+    "Excalidraw/Drawing 2025-09-22 11.10.49.excalidraw.md",
+    "Excalidraw",
+    "Untitled 1.base",
+    "Untitled.base",
+    "001 - Anotações/Respostas Entrevista.md",
+    "005 - UTFPR.zip",
+    "005 - UTFPR/2 - Areas/Overfitting.md",
+    "002 - Prompts IA/Prompt Hiram Reis Neto.md",
+    "001 - Anotações/Api Keys.md",
+    "002 - Prompts IA/Prompt RAMBO.md",
+    "005 - UTFPR/3 - Resources/Mineração de Dados/2_nocoes_estatistica.pdf",
+    "002 - Prompts IA/Prompt para gerar aulas detalhadas.md",
+    "005 - UTFPR/2 - Areas/Recozimento de Metais.md",
+    "001 - Anotações/Método PARA.md",
+    "005 - UTFPR/3 - Resources/Mineração de Dados/My code file.py",
+    "005 - UTFPR/3 - Resources/Mineração de Dados/aula_AED.pdf",
+    "Pasted image 20250707174639.png",
+    "007 - Criação de Conteúdo/bigOResult.png",
+    "005 - UTFPR/1 - Projects/001 - Introdução a Inteligência Artificial/image 4.png",
+    "005 - UTFPR/Estatística Aplicada/Untitled.canvas",
+    "002 - Segundo Cérebro/B - PDS/Live com o RAMBO.canvas",
+    "002 - Segundo Cérebro/B - PDS/Pasted image 20250319201340.png",
+    "002 - Segundo Cérebro/B - PDS/Pasted image 20250319200600.png",
+    "002 - Segundo Cérebro/B - PDS/Pasted image 20250319200244.png",
+    "Notion/Imagens/Blue_and_Black_Modern_Gradient_Software_Development_Technology_Logo.png",
+    "Notion/Imagens/image 3.png",
+    "Notion/Imagens/image 2.png",
+    "Notion/Imagens/Blue_and_Black_Modern_Gradient_Software_Development_Technology_Logo_(1).png",
+    "Max Second Brain/Untitled.canvas"
   ]
 }
