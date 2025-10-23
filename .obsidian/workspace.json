@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59b64abb88ad43a8",
+        "id": "602790fa90fd4f56",
         "type": "tabs",
         "children": [
           {
-            "id": "e94c856f84dab566",
+            "id": "4d33d92b93f1bf6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Linguagem de Programação/Readme.md",
+                "file": "05 - Meta-heuristicas/Meta-heurísticas e Otimização Combinatória.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Meta-heurísticas e Otimização Combinatória"
+            }
+          },
+          {
+            "id": "d18b4fd748f8dfbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - Data Mining/Data Mining.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Mining"
+            }
+          },
+          {
+            "id": "101c77c0e0390c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Deep Learning/Deep Learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deep Learning"
+            }
+          },
+          {
+            "id": "be2d2b04cad8e0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "19cda5883b1590bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Visao Computacional/Visão Computacional.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Visão Computacional"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Linguagem de Programação/Readme.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Readme"
+              "title": "Outline of README"
             }
           },
           {
@@ -229,12 +326,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e94c856f84dab566",
+  "active": "be2d2b04cad8e0bb",
   "lastOpenFiles": [
-    "01 - Linguagem de Programação/01 - Linguagem de Programação.md",
-    "01 - Linguagem de Programação/Readme.md",
-    "Untitled.md",
+    "07 - Data Mining/Data Mining.md",
+    "05 - Meta-heuristicas/Meta-heurísticas e Otimização Combinatória.md",
+    "10 - Visao Computacional/Visão Computacional.md",
     "README.md",
+    "09 - Mineração de Texto e PLN/Mineração de Texto e PLN.md",
+    "08 - Deep Learning/Deep Learning.md",
+    "04 - Redes Neurais/Redes Neurais Artificiais.md",
+    "Untitled.md",
+    "01 - Linguagem de Programação/Readme.md",
+    "01 - Linguagem de Programação/01 - Linguagem de Programação.md",
     "Tags",
     "005 - UTFPR/1 - Projects/007 - Deep Learning/002 - Rede Convolucional.md",
     "005 - UTFPR/1 - Projects/007 - Deep Learning/000 - Informações sobre a disciplina.md",
@@ -258,13 +361,7 @@
     "Untitled.base",
     "001 - Anotações/Respostas Entrevista.md",
     "005 - UTFPR.zip",
-    "005 - UTFPR/2 - Areas/Overfitting.md",
-    "002 - Prompts IA/Prompt Hiram Reis Neto.md",
-    "001 - Anotações/Api Keys.md",
-    "002 - Prompts IA/Prompt RAMBO.md",
     "005 - UTFPR/3 - Resources/Mineração de Dados/2_nocoes_estatistica.pdf",
-    "002 - Prompts IA/Prompt para gerar aulas detalhadas.md",
-    "005 - UTFPR/2 - Areas/Recozimento de Metais.md",
     "005 - UTFPR/3 - Resources/Mineração de Dados/My code file.py",
     "005 - UTFPR/3 - Resources/Mineração de Dados/aula_AED.pdf",
     "Pasted image 20250707174639.png",

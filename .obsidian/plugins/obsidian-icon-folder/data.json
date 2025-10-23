@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🖥",
-      "LiBrainCircuit",
-      "⛏",
-      "LiLayoutTemplate",
-      "📥"
+      "👀",
+      "📓",
+      "🔍",
+      "🧠",
+      "🖥"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,11 @@
   "999 - Templates": "LiLayoutTemplate",
   "005 - UTFPR/1 - Projects/006 - Mineração de Dados": "⛏",
   "005 - UTFPR/1 - Projects/007 - Deep Learning": "LiBrainCircuit",
-  "01 - Linguagem de Programação": "🖥"
+  "01 - Linguagem de Programação": "🖥",
+  "04 - Redes Neurais": "🧠",
+  "05 - Meta-heuristicas": "🔍",
+  "07 - Data Mining": "⛏",
+  "08 - Deep Learning": "LiBrainCircuit",
+  "09 - Mineração de Texto e PLN": "📓",
+  "10 - Visao Computacional": "👀"
 }
