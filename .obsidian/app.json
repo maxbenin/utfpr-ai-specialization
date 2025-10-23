@@ -9,5 +9,6 @@
   "foldHeading": true,
   "showIndentGuide": true,
   "tabSize": 4,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
